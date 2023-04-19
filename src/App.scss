@@ -1,0 +1,12 @@
+.profile-wrapper {
+    display: flex;
+    justify-content: space-between;
+
+    .profile-form-wrapper {
+        width: 60%;
+    }
+
+    .profile-preview-wrapper {
+        width: 30%;
+    }
+}
